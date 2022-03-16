@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Maksim-Karakuts
+- 👀 I’m interested in developing web applications using Java
+- 🌱 I’m currently learning Sprring Boot
+- 📫 You can reach me via maksim.karakuts@gmail.com
